@@ -1,0 +1,1356 @@
+{
+  "settings": {
+    "name": "African Americans in WWI",
+    "currentPage": "page1.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#193340"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.6",
+    "siteFonts": [],
+    "uniqCompNum": 15,
+    "versionPublish": "4.8.6",
+    "screenshot": "screenshot.png",
+    "favicon": "",
+    "noImageResize": ""
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-0"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/1917-1024x754.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.5"
+          },
+          "title": "<i>African-Americans in the First World War</i>",
+          "text": "Commemorating the centennial of the First World War and its impact on African-American history",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">ENTER</a>  ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-b",
+          "_styles": {
+            "P": {
+              "font-size": "20px",
+              "text-align": "right"
+            },
+            "H1": {
+              "text-align": "right"
+            },
+            "I": {
+              "font-size": "48px"
+            },
+            ".btn": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/hftl-logo-stacked-web2-265x197.png",
+              "class": "mbr-contacts__img mbr-contacts__img--left",
+              "width": 265,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "text1": "<strong>ADDRESS</strong><br>\n219 SW 2nd Ave.&nbsp;<br>\nFort Lauderdale, FL 33312",
+          "text2": "<strong>CONTACT US</strong><br>\nPhone: (954) 463-4431<br><br>",
+          "text3": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://historyfortlauderdale.org\" target=\"_blank\">historyfortlauderdale.org</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.facebook.com/ftlhistory\" target=\"_blank\">www.facebook.com/ftlhistory</a></li><li><br></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-1a"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-x",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Site Generator Description",
+        "title": "About",
+        "order": 6
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-1"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff",
+              "text-align": "left",
+              "font-size": "18px"
+            },
+            ".mbr-article I": {
+              "font-size": "15px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ABOUT",
+          "text": "This public history project uses a digital platform to commemorate the centennial of the First World War and the roles that African-American troops fulfilled during the war.&nbsp;<br><br>In collaboration with History Fort Lauderdale, our goals are to bring awareness to Fort Lauderdale residents that might have family members that served during World War I. In order to achieve this, this exhibit delivers an overview to three distinct categories of how \"The Great War\" impacted African-American History.&nbsp;<br><br>The first focus is on the training these troops received, what compliations did they experience based on racial discrimination? Second, what jobs or tasks did they perform while stationed in Europe? and finally, how was their reception by the American public after the war concluded? These questions will be answered in a series of small articles and slideshows that bring up key points to our audience.<br><br>This project encourages visitors to interact with it through social media outlets by sharing the site, or by simply leaving a comment on the sections below the articles. Visitors are also encouraged to visit the new World War I exhibit housed at History Fort Lauderdale's New River Inn Museum building to view their collection of authentic artifacts. Information such as photographs or documents of Fort Lauderdale World War I veterans can be shared through the contact form below.<br><br><i>Curated by Carlos Pulido</i><br><br><b>About History Fort Lauderdale</b><br><br>History Fort Lauderdale, formerly Fort Lauderdale Historical Society, believes that a sense of history is fundamental to understanding human experience, and therefore, collects preserves and shares material from our community's past, so that present and future generations can comprehend more fully their predecessors, their community and themselves.<br><br>With education as the primary focus, we offer public lectures and workshops; publish teacher resource materials; arrange school and general group tours and activities; support scholarly research through significant research assistance; maintain a 1907 house museum and three other 1905 historic structures, and a museum of changing and permanent exhibitions, and operate a research center that has functioned uninterrupted for fifty one years.<b><br></b>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">START A JOURNEY</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-18"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "219 SW 2nd Ave, Fort Lauderdale, FL 33301",
+              "placeId": "ChIJIz5GqvkA2YgRpiZymB0V2ZM",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-19"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-danger\">CONTACT US</a>",
+          "text1": "<strong>ADDRESS</strong><br>219 SW 2nd Ave.&nbsp;<br>\nFort lauderdale, FL 33301<br><br>\n<strong>CONTACTS</strong><br>\nPhone: (954) 463-4431<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"mbr-contacts__link text-gray\" href=\"http://historyfortlauderdale.org\" target=\"_blank\">historyfortlauderdale.org</a></li><li><a class=\"mbr-contacts__link text-gray\" href=\"http://www.facebook.com/ftlhistory\" target=\"_blank\">www.facebook.com/ftlhistory</a></li><li><br></li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "cpuli011@fiu.edu",
+            "alerts": {
+              "success": "Thanks for filling out this form! Your request will be reviewed promptly"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-1b"
+        }
+      ]
+    },
+    "page3.html": {
+      "settings": {
+        "meta_descr": "Web Generator Description",
+        "title": "Non-Combat Units",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-3"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/stevedores-1024x692.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>The Services of Supply&nbsp;</i>",
+                "contentAlign": "left",
+                "text": "Only about twenty percent of African-American draftees were trained to fight while the remaining eighty percent of men made up noncombatant divisions in the Services of Supply. Stevedores were responsible for unloading cargo from ships; they also served as couriers and transporters moving supplies to the Western Front and back via motorcycle and other methods of transportation.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.6"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51942v-1024x804.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Stevedore Regiments</i>",
+                "contentAlign": "right",
+                "text": "During the early days of July, 1917, companies of volunteer men arrived at the French ports of Brest, St. Nazaire, Bordeaux, Havre and Marseilles. Stevedore camps at base ports in France grew until they numbered about fifty thousand men. The Stevedores took great pride in their companies, their camps, and all that belonged to the U.S. Army. Since their work and contributions was always emphasized by officers as being essential to the men in the trenches, the name \"Stevedore\" became a dignified and distinguished term, as it now represented an important part of the great American Army.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.4"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/26880v-1024x707.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>James Reese Europe's Band</i>",
+                "contentAlign": "center",
+                "text": "Transported to Europe by African-American regimental bands, jazz took France by storm. Lieutenant James Reese Europe, leader of the 369th infantry band, can be credited for this cultural contribution as he composed, arranged and conducted much of the music played by his men. What began as an effort to generate interest and convince more men in Harlem to join the 15th New York National Guard, resulted in the creation of one of the finest musical ensembles of the war. They played concerts in more than 25 cities in war-torn France, and the French enjoyed their Jazz renditions of popular songs.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-14",
+          "_styles": {
+            "P": {
+              "text-align": "right"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "The Labor Battalions&nbsp;",
+          "meta": "By Carlos Pulido posted November 25, 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1n"
+        },
+        {
+          "text": "<p>The African-American experience during the First World War was not all \"death and glory.\" For every soldier who got a chance to engage the enemy in combat, there were twenty to thirty men working on routine tasks such as: loading and unloading ships, building piers, laying railroad tracks, making roads along with other duties that made it possible for the fighting men to obtain the food, ammunition, and other supplies they so desperately needed. Black stevedore regiments, labor battalions, development battalions, or pioneer infantry were some of the names given to these service units; they were the day laborers of the army. Stevedore regiments had the same regulations, equipment, military rank and uniform that the infantry had. Although their occupation focused on industrial assignments, all the life, workings and details of procedure were carried out according to military law and order.</p><p>The first group of Stevedores in France was composed mostly of men who went over in June, 1917, with a civilian contract company. They served for one year and returned to America once their contract was finished. As more companies of volunteer men began to arrive in France during the early days of July, 1917, the Stevedore Camps at base ports in France grew until they numbered about fifty thousand men. The vast majority of black soldiers in the American Army fulfilled a large majority of the work of this \"Service of Supply,\" or as it was known in army slang, the \"S.O.S,\" and their work won the highest praise from all who had the opportunity to judge the efficiency of their performance. The men who served their country in any of these organizations were fighting to save their country as though they had carried a rifle in the trenches. </p><p>Despite claims by Secretary Baker that the War Department did not tolerate racial discrimination, the reality of the situation could not be farther from the truth. Although it was not true that only black men were assigned to labor units, the objective with white draftees was to make as many of them into fighting men as possible, while with black draftees, as few as possible. Stevedores experienced discrimination and an incident involving Quartermaster General Henry G. Sharpe demonstrates how the army took direct discriminatory action against these men. In September, 1917, Sharpe recommended to form a special regiment of black stevedores in case civilian longshoremen went on strike, because black stevedores would not have the union connections to go on strike. All white draftees, regardless of eventual assignment, received basic training; which required about forty hours of training a week, including physical and infantry drills, along with marching, and work with rifles. On the other hand, black units received very limited or nonexistent training, as the army believed that almost all black draftees would be used as laborers. Only the small number of African-American soldiers assigned to combat units received any significant amount of military instruction.</p><p>The Armistice of November 11, 1918, ended the fighting and most combat units were disbanded and sent back to the U.S. by February, 1919. However, the men of the S.O.S. did not have an easy time as the combat soldiers did after the Armistice. There was a massive amount of work to be done and all of the debris of war had to be cleaned up in time in order for French farmers to plant their fields again in the spring of 1919. Over six thousand black soldiers were sent to Romagne and detailed to graves registration. One of the worst jobs of all S.O.S. assignments: collecting all the bodies within a fifty-kilometer radius, many of which were in advanced stages of decomposition. Military authorities tried to reconcile the men that their intolerable work was a glorious labor and an honored assignment.&nbsp;</p><p>Upon their return home, the reception of African-American troops varied greatly. In large Northern cities they were welcomed with respect and enthusiasm, but in rural areas, especially in the South, they were often met with hostility. New York was particularly outstanding for the treatment of its black veterans, as they held a victory parade up Fifth Avenue for the 369th Infantry Regiment, who had returned to the city on February 12, 1919. Unfortunately, returning black veterans in the South experienced the resurgence of the Ku Klux Klan, which had been revived in 1915. The number of reported lynchings grew from sixty-four in 1918 to eighty-three in 1919, and at least ten of the 1919 victims were black veterans, some of them still in uniform. Although racial conditions failed to improve significantly after the war, the impact of the First World War was of great importance to African-American history; The war effort allowed black men to assert their citizenship, exposed them to new lands and new people, and allowed them to fight for their country, resulting in staking a personal claim to democracy that would inspire the political ideals of future generations.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1o"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1s"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons1-15"
+        }
+      ]
+    },
+    "page4.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "Combat Units",
+        "order": 3
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-4"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/17736v-1024x752.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>The Harlem Hellfighters</i>",
+                "contentAlign": "left",
+                "text": "Upon their arrival to France the 15th New York National Guard became the 369th Infantry Regiment of the newly created 93rd Infantry Division, a “colored” segregated unit of the United States Army. These men were integrated into the French army, who were in need of American reinforcements. American equipment like rifles and helmets had to be exchanged for their French equivalents; only their American uniform was retained.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17735v-1024x752.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>The Buffaloes</i>",
+                "contentAlign": "center",
+                "text": "The 367th Infantry Regiment , part of the 92nd Infantry Division, arrived at Brest, France, on June 29, 1918. This regiment had an admirable combat record, and their entire First Battalion was cited for bravery and awarded the Croix de Guerre, entitling every officer and man in the battalion to wear this distinguished French decoration. This citation was made by the French commission as a result of splendid service shown by the battalion in the last engagement of the war. &nbsp;&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17424v-sept-1918-1024x748.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>New Perspectives</i>",
+                "contentAlign": "right",
+                "text": "Military service in France was a remarkable experience for many African-American soldiers. Interaction with North and West African soldiers serving in the French military expanded their sense of diasporic belonging, while treatment from French civilians was different from what they were accustomed to receive from white people at home. They were treated with respect as American soldiers fighting for a common cause, and barely experienced social discrimination.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "P": {
+              "text-align": "right",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "slider-16"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Trial By Fire",
+          "meta": "By Carlos Pulido posted November 23, 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l"
+        },
+        {
+          "text": "<p>There was much confusion about what to do with the black soldiers once they arrived in France. During the first two months of 1918 an intense exchange of telegrams between General John Pershing (commander of the American Expeditionary Forces) and General John Biddle (Chief of Staff of the U.S. Army) debated what to do with the black combat troops of the newly created 93rd division. At First, Pershing intended on allocating the \"colored\" troops to the Services of Supply, however, since the 93rd had been organized and trained with the understanding that it would be combat infantry, the idea of serving as support troops generated resentments from both black and white officers of the 93rd Division.<br></p><p>Later in February, Biddle replied with more bad news for the 93rd, stating that they should not be sent into combat, as they were an incomplete unit without their own artillery, engineers and signal corps elements, his telegram also stated that it was not planned for the division to ever be completed. While the debate between Pershing and Biddle continued, more black combat regiments began to arrive in France. General Pershing contacted the War Department about what to do with the men, and Washington responded that the 93rd existed as a division only on paper, and that it would only contain four infantry regiments. Pershing had promised the French for several months that he would supply them with fresh infantry regiments, and the prospect of having four unaffiliated regiments seemed like the perfect solution for both the French and U.S. armies.&nbsp;</p><p>Pershing transferred these four regiments to the French Army; as a result the French were delighted to receive American regiments into their divisions as reinforcements, since they had suffered heavy casualties over the previous three years. With the integration of the 93rd Division's regiments into French units came a series of organizational difficulties, as French equipment was different from what the Americans were accustomed to. Their weapons, food and rations had to be replaced by French equivalents, and in some cases the daily ration of two liters of wine resulted in numerous cases of drunkenness. Even with these minor logistical difficulties, the treatment received by African-American troops from the French began to worry American officials. The French were friendly and tolerant to the black troops, and this conduct shocked many white Americans as they worried that \"colored\" people would demand equality of rights on their return home.&nbsp;</p><p>On March 1st, 1918, the former 15th New York National Guard was designated the 369th Infantry Regiment and assigned to the 93rd Division. They trained under French officers and went to the <i>Main de Massiges</i>, a part of the French line that offered the greatest danger as well as the greatest opportunity for training in trench warfare and raiding. After two weeks' experience in the trenches the 369th was sent into in the <i>Bois d'Hauze</i>, <i>Champagne</i>, where the regiment repelled German attacks and counter-attacked to gain possession of German trenches. The 369th became famous for being the regiment that never lost a man captured, a trench, or a foot of ground; despite having less training than any American unit before going into action, it saw the first and longest service of any American regiment as part of a foreign army. The men of the 369th became known among the French and Germans as “Hell Fighters” for their tenacity in  the battlefield and were awarded honors like the Croix de Guerre for exceptional gallantry in action.</p><p>Another of many \"colored\" regiments that performed admirably in France was the 367th Infantry regiment. While training at Camp Upton, near New York City, the regiment caught the attention of the metropolitan press for having a large number of black officers, 97 in total, who were all graduates of the Fort Des Moines Officers' Training Camp. A Southern officer and West Point graduate born in Louisiana, Colonel James A. Moss, led the 367th. &nbsp;Under his leadership the regiment made a notable record in France and were awarded the Croix de Guerre for holding the Germans at bay near <i>Metz</i>, while allowing for another regiment to retreat to safety. The success of the 367th proved that it was possible for a white man born and bred in the South to learn to appreciate the real worth of African-American soldiers, and to treat them with a full measure of respect, opportunity, and credit.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1m"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1r"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons1-17"
+        }
+      ]
+    },
+    "page6.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Training",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-6"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": false,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/09985v-1024x756.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Training Complications</i>",
+                "contentAlign": "left",
+                "text": "At a time when patriotism and sacrifice was being demanded of African-Americans, a large wave of violence was directed against them throughout the United States. The Houston riot of 1917, along with other riots, and various lynchings across the Southern United States proved that racial tensions were too high for stationing and training African-American troops on Southern soil.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3a27437r-640x488.jpg",
+                "active": false,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Alternative Plans</i>",
+                "contentAlign": "center",
+                "text": "Military authorities were pressing strongly to have black troops serve primarily as laborers, however, in August of 1917, Chief of Staff Tasker H. Bliss proposed six alternative plans for the employment of black draftees. Ultimately the plan approved by the Secretary of War, Newton D. Baker, consisted of black troops receiving minimal training at camps close to their homes, after which they would be shipped to France where they would receive final training with weapons. By the end of the war, 80 percent of black troops overseas were assigned to labor duties, and only 20 percent ever saw combat.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.7"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51926v-1024x673.jpg",
+                "active": true,
+                "showButtons": false,
+                "showText": true,
+                "showTitle": true,
+                "title": "<i>Selective Service Law</i>",
+                "contentAlign": "right",
+                "text": "On May 1918, Congress enacted the Selective Service law. It provided that men provided that men could be summoned for service in the place in which would best suit the common good to call them and recited the military obligation of citizenship. Under the first selective draft 9,586,508 men between the ages of 21 and 31 were registered, 8,848,882 were white and 737,626 were African-American.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlay": true,
+                "overlayOpacity": "0.2"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_styles": {
+            "H1": {
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right",
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "slider-13"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Dire Situation In Training Camps",
+          "meta": "By Carlos Pulido posted November 18, 2018",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1j"
+        },
+        {
+          "text": "<p>Nearly 400,000 African-American soldiers served in the United States Army in the First World War, many of them fought and died to make the world safe for an ideal of democracy that denied them many rights and freedoms back home. Despite being poorly equipped, under-trained, and commanded by white officers who insisted on black inferiority, African-American troops demonstrated a great sense of patriotism and selflessness in representing their country and performed admirably in both combat and noncombat battalions.</p><p>On April 2, 1917, President Woodrow Wilson declared war against Germany. At this time, there were nearly 20,000 African-American soldiers in the United States, many of which had seen active service in both Regular Army and National Guard regiments. Some units were sent to patrol the border with Mexico, while others were sent to southern states to oversee the construction of training camps. Camp Logan near Houston, Texas, was one of the camps being built, and was presided over by the 24th Infantry Regiment, a \"colored\" battalion.</p><p>Many of the men of the 24th came from all over the country and were proud, seasoned troopers. They failed, and reportedly refused to obey Jim Crow laws and regulations pertaining to their race, and as a result of this the citizens of Houston resented their presence. Racial tensions reached their boiling point on August 23, 1917, when a rumor spread that one of the \"colored\" soldiers had been arrested and killed, a group of armed soldiers determined to avenge the \"death\" rushed to town and exchanged shots with police and armed civilians. Although the shootout was not long, the casualties were serious, two black soldiers and seventeen white men were killed.</p><p>The Houston riot of 1917, or Camp Logan riot, resulted in three trials by court martial for mutiny. Nineteen of the rioting soldiers were executed and forty-one were sentenced to life. This event proved that racial tensions were too high and consequently that African-American troops should not be stationed on Southern soil. Secretary of War, Newton D. Baker, believed that any large amount of black troops being sent to any particular camp would be a menace to the surrounding population and to peace and order. Some Southern States felt so strongly on the subject that officials and citizens visited Washington to protest about black troops being sent to their states for training.</p><p>A similar situation was nearly averted in Spartanburg, South Carolina, where the New York National Guard units were being trained. After a soldier by the name of Noble Sissle was assaulted and mistreated for not removing his hat inside of a white hotel, a group of New York militiamen banded together and marched into town with intentions of shooting, like the soldiers in Houston had before them. Colonel William Hayward, commanding officer of the 15th New York Regiment, intercepted the soldiers in time and brought them back to camp; avoiding another possible riot.</p><p>This incident left the War Department with three situations: keep the regiment at Camp Wadsworth and face an eruption from the white citizens in Spartanburg, remove the unit to another camp and display that the War Department would yield to any community if they put forward sufficient pressure, or order the regiment overseas. Ultimately the third alternative was decided upon and the 15th New York National Guard Regiment became one of the first black regiments sent overseas to complete their training.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1k",
+          "_styles": {
+            "P": {
+              "font-size": "18px",
+              "text-align": "left"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1p"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons1-1d"
+        }
+      ]
+    },
+    "page7.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "Resources",
+        "order": 7
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-7"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Resources",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1u"
+        },
+        {
+          "text": "<p>This bibliography includes a selection of books and reading materials that aided the research for this project:<br></p><p><b>Books</b></p><p>Barbeau, Arthur E., and Florette Henri.&nbsp;<i>The Unknown Soldiers: African-American Troops in World War I</i>. New York: Da Capo Press, 1996.</p><p>Dalessandro, Robert J. and Gerald Torrence.<i> Willing Patriots: Men of Color in the First World War</i>. Pennsylvania: Schiffer Military History, 2009.</p><p>Harris, Stephen L. <i>Harlem's Hell Fighters: The African-American 369th Infantry in World War I</i>. Washington, DC: Potomac Books, Inc., 2003.</p><p>Haynes, Robert. <i>A Night of Violence: The Houston Riot of 1917</i>. Baton Rouge: Louisiana State University Press, 1976. </p><p>Scott, Emmett J. <i>The American Negro In The World War</i>. Chicago: Homewood Press, 1919.&nbsp;</p><p>Sharpe, Henry G. &nbsp;<i>The Quartermasters Corps in the Year 1917 in the World War. </i>New York: The Century Co, 1921.</p><p><b>Articles</b></p><p>Bernard, Gilles., and Pierre Besnard. \"Colored American Soldiers in the First World War.\" Militaria Magazine, March 1995, 11-19.</p><p>Spingarn, Arthur B. \"The Health and Morals of Colored Troops.\" <i>The Crisis: A Record of the Darker Races</i>, August 1918, 166-168.<br></p><p>\"The Looking Glass,\" <i>The Crisis: A Record of the Darker Races</i>, August 1918, 178-182.</p><p>\"Of Course I Want Them.\" <i>The Stars and Stripes</i>, 23 August 1918, 1.</p><p><b>Images</b></p><p>Harris &amp; Ewing, photographer. <i>ARMY, U.S. COLORED SOLDIERS.</i> , 1917. Photograph. https://www.loc.gov/item/2016868638/.</p><p>Thompson, E. B, photographer. <i>Negro soldier reading to boys who can't read. Camp Gordon, Ga. -18</i>. Camp Gordon Dekalb County Georgia, None. [Between 1917 and 1918] Photograph. https://www.loc.gov/item/2011660972/.</p><p>Bain News Service, Publisher. <i>US Army Jazz Band, Camp Upton</i>. , 1918. date created or published later by Bain. Photograph. https://www.loc.gov/item/2014707044/.\n\n</p><p><i>Three unidentified African American soldiers in uniforms with vase of flowers in front of American flag and painted backdrop</i>. , None. [Between 1917 and 1918] Photograph. https://www.loc.gov/item/2017648686/.</p><p>Hine, Lewis Wickes, photographer. <i>Distributing goodies to the negro troops as they arrive at Auteuil. AMERICAN RED CROSS workers distribute chocolate, cigarettes etc. to the wounded negro soldiers arriving at AMERICAN RED CROSS military hospital No 5 at Auteuil</i>. Auteuil France, 1918. October. Photograph. https://www.loc.gov/item/2017682733/.</p><p>Hine, Lewis Wickes, photographer. <i>The AMERICAN RED CROSS home service gives comfort and reassurance to American soldiers who are anxious about the welfare of their families at home. The picture shows Lieu. John Applebee talking with colored soldiers at Camp Hospital No. 43 at Gievres. One of these men says his wife is not getting her allottment from the Government and Lieut. Applebee assures him it will be looked up</i>. France Gievres, 1918. September. Photograph. https://www.loc.gov/item/2017682423/.</p><p>Hine, Lewis Wickes, photographer. <i>Negro troops arrive at Auteuil. Wounded but not down hearted American negro soldiers arrive in an ambulance at the AMERICAN RED CROSS military hospital No. 5 at Auteuil</i>. Auteuil France, 1918. October. Photograph. https://www.loc.gov/item/2017682734/.</p><p><i>302nd Eng. repairing road over trench and 92nd Div. colored machine gunners going into action, Argonne Forest, France</i>. Argonne France, None. [Between 1917 and 1918] Photograph. https://www.loc.gov/item/2017648704/.<br></p><p><i>Two unidentified African American soldiers in uniforms and overseas caps on motorcycle with sidecar</i>. , None. [Between 1917 and 1918] Photograph. https://www.loc.gov/item/2017648687/.</p><p><i>On board the \"Momus\" at sea, in the danger zone Part of the civilian stevedore battalion, under command of captain Goege Luberoff, Q.M.C., on board the Momus in the danger zone, on their way to Saint Nazaire, France / / Signal Corps USA</i>. Atlantic Ocean, 1917. [United States: U.S. Army Quartermaster Corps, June 20th] Photograph. https://www.loc.gov/item/2016651366/. &nbsp;</p><p>United States Army. Signal Corps, photographer. <i>The \"skirmish line\" searching for the lost graves ... Company A, 321st Labor Battalion, spread out in \"skirmish line\" formation by twos, searching for dead along the south bank of the Vesle in the Chateau-Thierry section. The stretchers are used to transport the bodies to the cemeteries / U.S. Army Signal Corps A.E.F. photographic laboratory</i>. , 1918. Photograph. https://www.loc.gov/item/2017648716/.</p><p><i>Unidentified African American soldier in uniform and overseas cap with rifle and knife hanging from cartridge belt</i>. , None. [Between 1917 and 1918] Photograph. https://www.loc.gov/item/2017648673/.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1v"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons1-1w"
+        }
+      ]
+    },
+    "page9.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "Images",
+        "order": 5
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "14px",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\">HOME</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page6.html\">TRAINING</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page4.html\">COMBAT UNITS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\">NON-COMBAT UNITS&nbsp;</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page9.html\">IMAGES</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page1.html\">ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page7.html\">RESOURCES</a></li>  ",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/mbr-1920x1731.jpg",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Poppy ",
+              "link": "https://mobirise.com",
+              "title": "African-Americans in the First World War "
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"index.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">African-Americans in the First World War</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-9"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#193340",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/09985v-1024x756.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/09985v-1024x756-800x591.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "ARMY, U.S. COLORED SOLDIERS. , 1917.&nbsp;",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3a27437r-640x488.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3a27437r-640x488-640x488.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Negro soldier reading to boys who can't read. Camp Gordon, Ga.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/26880v-1024x707.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/26880v-1024x707-800x552.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "US Army Jazz Band, Camp Upton. , 1918.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51912v-663x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51912v-663x1024-663x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Three unidentified African American soldiers in uniforms with vase of flowers in front of American flag and painted backdrop.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51913v-664x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51913v-664x1024-664x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Two unidentified African American soldiers in uniforms and overseas caps on motorcycle with sidecar.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17735v-1024x752.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17735v-1024x752-800x588.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Distributing goodies to the negro troops as they arrive at Auteuil.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/302-engineers-631x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/302-engineers-631x1024-631x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "302nd Eng. repairing road over trench and 92nd Div. colored machine gunners going into action.",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51899v-622x1024.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51899v-622x1024-622x1024.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Unidentified African American soldier in uniform and overseas cap with rifle and knife hanging from cartridge belt.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17424v-sept-1918-1024x748.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17424v-sept-1918-1024x748-800x584.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "The AMERICAN RED CROSS home service gives comfort and reassurance to American soldiers who are anxious about the welfare of their families at home.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/51942v-1024x804.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/51942v-1024x804-800x628.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Company A, 321st Labor Battalion, spread out in \"skirmish line\" formation by twos, searching for dead along the south bank of the Vesle in the Chateau-Thierry section.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/17736v-1024x752.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/17736v-1024x752-800x588.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Negro troops arrive at Auteuil.&nbsp;",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/stevedores-1024x692.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/stevedores-1024x692-800x541.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "On board the \"Momus\" at sea, in the danger zone Part of the civilian stevedore battalion.",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "font-size": "13px"
+            }
+          },
+          "_anchor": "gallery1-11"
+        },
+        {
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "socialFacebook": true,
+            "postsNumber": 5,
+            "socialGoogle": false,
+            "socialDisqus": false,
+            "shortName": "",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/facebook-comments.jpg\"></div>",
+          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
+          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
+          "alias": "facebook-comments",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "facebook-comments-block",
+          "_anchor": "facebook-comments-block-1t"
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#193340",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "social-buttons1-1h"
+        }
+      ]
+    }
+  }
+}
